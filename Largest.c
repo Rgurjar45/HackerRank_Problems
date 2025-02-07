@@ -12,7 +12,7 @@ int main() {
         printf("The largest number is : %d",a);
         } 
         else
-        {printf("The largest number is : %d",c);}
+        {printf("The largest number is : %d",a);}
      
     }
     
